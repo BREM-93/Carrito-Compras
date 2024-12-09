@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "Colmillo Blanco", "precio": 14.99 , "imagen": "ColmilloBlanco.png"},
+  { "id": 2, "nombre": "Don Quijote de la Mancha", "precio": 19.50 , "imagen": "DQuijote.jpg" },
+  { "id": 3, "nombre": "Las Mil y Una Noche", "precio": 22.99 , "imagen": "Mil-y-Una-Noche.jpg"},
+  { "id": 4, "nombre": "El Problema de los tres Cuerpos", "precio": 39.90 , "imagen": "problema.jpg"},
+  { "id": 5, "nombre": "Blanca Nieves", "precio": 10.80 , "imagen": "BNieves.jpg"},
+  { "id": 6, "nombre": "Cuentos Sin Plumas", "precio": 19.00 , "imagen": "Plumas.jpg"},
+  { "id": 7, "nombre": "El arte de ser nosotros", "precio": 50.99 , "imagen": "Arte.png"},
+  { "id": 8, "nombre": "Bajo La Misma Estrella", "precio": 40.00 , "imagen": "Estrella.jpg"}
+]
